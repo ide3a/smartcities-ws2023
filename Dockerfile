@@ -36,12 +36,12 @@ RUN apt-get install -y software-properties-common && \
 
 # Install swmm
 # ------------------------------------------------------------------------------
-RUN wget https://www.epa.gov/sites/default/files/2020-08/swmm51015_engine.zip
-RUN unzip swmm51015_engine.zip && \
-      mkdir swmm51015_engine/build && \
-      cd swmm51015_engine/build && \
-      cmake .. && \
-      cmake --build . --config Release
+# RUN wget https://www.epa.gov/sites/default/files/2020-08/swmm51015_engine.zip
+# RUN unzip swmm51015_engine.zip && \
+#       mkdir swmm51015_engine/build && \
+#       cd swmm51015_engine/build && \
+#       cmake .. && \
+#       cmake --build . --config Release
 
 # Install Python libraries
 # ------------------------------------------------------------------------------
@@ -49,8 +49,8 @@ COPY requirements.txt /.
 RUN  python3 -m pip install -r /requirements.txt
 
 # Temporary: Install hydro privacy dependencies
-COPY hydro_privacy/requirements.txt /hydro_privacy_requirements.txt
-RUN  python3 -m pip install -r /hydro_privacy_requirements.txt
+# COPY hydro_privacy/requirements.txt /hydro_privacy_requirements.txt
+# RUN  python3 -m pip install -r /hydro_privacy_requirements.txt
 
 WORKDIR /connecticity/client
 

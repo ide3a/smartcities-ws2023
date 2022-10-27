@@ -8,14 +8,14 @@ seaborn
 
 # Flood the SWMM
 # ------------------------------------------------------------------------------
-SALib==1.4.5
-swmmio==0.4.8
+# SALib==1.4.5
+# swmmio==0.4.8
 
 
 # Resilient Edge
 # ------------------------------------------------------------------------------
-leafsim
-pybamm
+# leafsim
+# pybamm
 
 
 # Traffic Monitoring
