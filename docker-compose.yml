@@ -3,9 +3,6 @@ services:
   connecticity:
     image: "ide3a/connecticity:latest"
     volumes:
-      - ./flood_the_swmm:/connecticity/client/flood_the_swmm
-      - ./hydro_privacy:/connecticity/client/hydro_privacy
-      - ./resilient_edge:/connecticity/client/resilient_edge
       - ./traffic_monitoring:/connecticity/client/traffic_monitoring
     ports:
       - "8888:8888"
