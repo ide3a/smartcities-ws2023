@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__
+.idea
+.ipynb_checkpoints
+
+eclipse-mosaic-21.1/logs
+
+resilient_edge/aux/*
+
+traffic_monitoring/eclipse-mosaic/logs/*
+traffic_monitoring/eclipse-mosaic/tmp/*
+traffic_monitoring/traffic_monitor.py
+**/launch.json
