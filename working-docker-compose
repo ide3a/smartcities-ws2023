@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  connecticity:
+    image: "ide3a/connecticity:latest"
+    volumes:
+      - .:/connecticity/client/
+    ports:
+      - "8888:8888"
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      JUPYTER_TOKEN: "smartcities-workshop"
+    entrypoint: sh -c 'jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root'

@@ -33,6 +33,11 @@ RUN apt-get install -y software-properties-common && \
   add-apt-repository ppa:sumo/stable && \
   apt-get update && \
   apt-get install -y sumo sumo-tools sumo-doc
+  
+# Install text editors
+RUN apt-get update && \
+    apt-get install -y nano && \
+    apt-get install -y vim
 
 # Install swmm
 # ------------------------------------------------------------------------------
@@ -52,6 +57,6 @@ RUN  python3 -m pip install -r /requirements.txt
 # COPY hydro_privacy/requirements.txt /hydro_privacy_requirements.txt
 # RUN  python3 -m pip install -r /hydro_privacy_requirements.txt
 
-WORKDIR /connecticity/client
+WORKDIR /smartcities-workshop
 
 # CMD jupyter lab --allow-root
