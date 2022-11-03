@@ -1,6 +1,6 @@
 {
-    "maximumTtl": 10,
-    "singlehopRadius": 700,
+    "maximumTtl": 30,
+    "singlehopRadius": 100,
     "adhocTransmissionModel": {
         "type": "SimpleAdhocTransmissionModel",
         "simpleMultihopDelay": {
