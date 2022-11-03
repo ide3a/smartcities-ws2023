@@ -22,18 +22,7 @@ class EventLog:
 
     def __init__(self, df_vehicle_updates, df_v2x_message_transmission, df_v2x_message_reception, df_cell_configuration,
                  df_adhoc_configuration, df_vehicle_registration, df_traffic_log, df_navigation_log):
-        """Simulation result.
 
-        Args:
-            df_vehicle_updates: VEHICLE_UPDATES events
-            df_v2x_message_transmission: V2X_MESSAGE_TRANSMISSION events
-            df_v2x_message_reception: V2X_MESSAGE_RECEPTION events
-            df_cell_configuration: CELL_CONFIGURATION events
-            df_adhoc_configuration: ADHOC_CONFIGURATION events
-            df_vehicle_registration: VEHICLE_REGISTRATION events
-            df_traffic_log: Contents of `Traffic.log` file
-            df_navigation_log: Contents of `Navigation.log` file
-        """
         self.df_vehicle_updates = df_vehicle_updates
         self.df_v2x_message_transmission = df_v2x_message_transmission
         self.df_v2x_message_reception = df_v2x_message_reception
@@ -59,15 +48,7 @@ class EventLog:
             columns={'ReceiverName': 'Name', 'Type': 'ReceiverType', 'MessageId': 'ReceiverMessageId'}, inplace=True)
 
 class Mosaic:
-    """Initialize the Mosaic toolbox
 
-    Parameters
-    ----------
-    mosaic_path : str
-        path to Eclipse MOSAIC
-    sim_name : str
-        Simulation name
-    """
     def __init__(self,
                  mosaic_path: str,
                  sim_name: str = 'Barnim') -> None:
@@ -106,7 +87,7 @@ class Mosaic:
             the simulation, 1 is the second most recent, by default 0
         """
         log_path = os.path.join(self.mosaic_path, 'logs')
-        print(f'The path for the logs: {log_path}')
+        print(f'Simulation logs are kept at {log_path}')
         try:
             dirs = sorted([f.name for f in os.scandir(log_path) if f.is_dir()],
                           reverse=True)
@@ -115,7 +96,7 @@ class Mosaic:
             return
 
         if not len(dirs)==0:
-            print(f"Log List size is {len(dirs)}")
+            #print(f"Log List size is {len(dirs)}")
             self.sim_select = os.path.join(log_path, dirs[idx])
             latest = "latest " if idx == 0 else ""
             print(f"Loading {latest}simulation result '{dirs[idx]}'")

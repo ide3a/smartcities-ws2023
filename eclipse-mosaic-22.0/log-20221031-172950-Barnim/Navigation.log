@@ -1,0 +1,28 @@
+2022-10-31 17:29:52,354 INFO  CentralNavigationComponent - Initializing CNC-Navigation
+2022-10-31 17:29:53,143 INFO  ExtendedGraphHopper - start creating graph from database
+2022-10-31 17:29:53,597 INFO  LocationIndexTree - location index created in 0.0493752s, size:3?642, leafs:488, precision:300, depth:3, checksum:1721, entries:[16, 16, 4], entriesPerLeaf:7.4631147
+2022-10-31 17:29:53,602 INFO  PrepareRoutingSubnetworks - start finding subnetworks (min:200, min one way:0) totalMB:274, usedMB:170
+2022-10-31 17:29:53,624 INFO  PrepareRoutingSubnetworks - 1 subnetworks found for car, totalMB:274, usedMB:170
+2022-10-31 17:29:53,638 INFO  PrepareRoutingSubnetworks - 120 subnetworks found for bike, totalMB:274, usedMB:170
+2022-10-31 17:29:53,640 INFO  PrepareRoutingSubnetworks - optimize to remove subnetworks (120), unvisited-dead-end-nodes (0), maxEdges/node (10)
+2022-10-31 17:29:53,640 INFO  ExtendedGraphHopper - edges: 4?212, nodes 1?721, there were 120 subnetworks. removed them => 0 less nodes
+2022-10-31 17:29:53,641 INFO  ExtendedGraphHopper - flushing graph car,bike|RAM|3D|turn_cost|5,15,4,3,3, details:edges:4?212(1MB), nodes:1?721(1MB), name:(1MB), geo:20?808(1MB), bounds:13.4587138,13.6886631,52.580291,52.6692331,0.0,0.0, totalMB:274, usedMB:170)
+2022-10-31 17:29:53,643 INFO  ExtendedGraphHopper - flushed graph totalMB:274, usedMB:170)
+2022-10-31 17:29:53,643 INFO  CentralNavigationComponent - CNC - Navigation-System initialized
+2022-10-31 17:29:53,677 INFO  CentralNavigationComponent - Sending vehicle routes initialization
+2022-10-31 17:29:56,834 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_0.
+2022-10-31 17:29:57,355 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_10.
+2022-10-31 17:29:57,766 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_20.
+2022-10-31 17:29:58,159 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_24.
+2022-10-31 17:29:58,630 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_30.
+2022-10-31 17:29:59,025 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_34.
+2022-10-31 17:29:59,474 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_40.
+2022-10-31 17:29:59,733 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_44.
+2022-10-31 17:30:00,076 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_50.
+2022-10-31 17:30:00,386 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_54.
+2022-10-31 17:30:00,551 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_60.
+2022-10-31 17:30:01,060 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_64.
+2022-10-31 17:30:01,135 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_70.
+2022-10-31 17:30:01,679 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_80.
+2022-10-31 17:30:01,717 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_74.
+2022-10-31 17:30:02,114 INFO  CentralNavigationComponent - Change to route 2 for vehicle veh_90.

@@ -1,0 +1,123 @@
+2022-10-31 17:29:53,678 INFO  SnsAmbassador - Init simulation with startTime=0, endTime=1000000000000
+2022-10-31 17:29:53,731 INFO  SnsAmbassador - Initialized SNS
+2022-10-31 17:29:57,043 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_4 @time=21.000,000,000 s
+2022-10-31 17:29:57,051 INFO  SnsAmbassador - Added Vehicle id=veh_4 position=GeoPoint{lat=52.655998,lon=13.569066,alt=0.00} @time=22.000,000,000 s
+2022-10-31 17:29:57,513 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_14 @time=57.000,000,000 s
+2022-10-31 17:29:57,520 INFO  SnsAmbassador - Added Vehicle id=veh_14 position=GeoPoint{lat=52.655997,lon=13.569066,alt=0.00} @time=58.000,000,000 s
+2022-10-31 17:29:58,051 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_24 @time=93.000,000,000 s
+2022-10-31 17:29:58,060 INFO  SnsAmbassador - Added Vehicle id=veh_24 position=GeoPoint{lat=52.655995,lon=13.569066,alt=0.00} @time=94.000,000,000 s
+2022-10-31 17:29:58,955 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_34 @time=129.000,000,000 s
+2022-10-31 17:29:58,973 INFO  SnsAmbassador - Added Vehicle id=veh_34 position=GeoPoint{lat=52.655991,lon=13.569065,alt=0.00} @time=130.000,000,000 s
+2022-10-31 17:29:59,715 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_44 @time=165.000,000,000 s
+2022-10-31 17:29:59,723 INFO  SnsAmbassador - Added Vehicle id=veh_44 position=GeoPoint{lat=52.655998,lon=13.569067,alt=0.00} @time=166.000,000,000 s
+2022-10-31 17:30:00,281 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_54 @time=201.000,000,000 s
+2022-10-31 17:30:00,289 INFO  SnsAmbassador - Added Vehicle id=veh_54 position=GeoPoint{lat=52.655995,lon=13.569066,alt=0.00} @time=202.000,000,000 s
+2022-10-31 17:30:00,733 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_64 @time=237.000,000,000 s
+2022-10-31 17:30:00,744 INFO  SnsAmbassador - Added Vehicle id=veh_64 position=GeoPoint{lat=52.655994,lon=13.569066,alt=0.00} @time=238.000,000,000 s
+2022-10-31 17:30:01,371 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_74 @time=273.000,000,000 s
+2022-10-31 17:30:01,407 INFO  SnsAmbassador - Added Vehicle id=veh_74 position=GeoPoint{lat=52.655995,lon=13.569066,alt=0.00} @time=274.000,000,000 s
+2022-10-31 17:30:01,856 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_84 @time=309.000,000,000 s
+2022-10-31 17:30:01,867 INFO  SnsAmbassador - Added Vehicle id=veh_84 position=GeoPoint{lat=52.656002,lon=13.569067,alt=0.00} @time=310.000,000,000 s
+2022-10-31 17:30:02,270 INFO  SnsAmbassador - Radio configured in mode SINGLE with communication radius 700.0 for node id=veh_94 @time=345.000,000,000 s
+2022-10-31 17:30:02,279 INFO  SnsAmbassador - Added Vehicle id=veh_94 position=GeoPoint{lat=52.655995,lon=13.569066,alt=0.00} @time=346.000,000,000 s
+2022-10-31 17:30:02,646 INFO  SnsAmbassador - Removed Vehicle id=veh_0 @time=368.000,000,000 s
+2022-10-31 17:30:02,688 INFO  SnsAmbassador - Removed Vehicle id=veh_10 @time=372.000,000,000 s
+2022-10-31 17:30:03,255 INFO  SnsAmbassador - Removed Vehicle id=veh_1 @time=413.000,000,000 s
+2022-10-31 17:30:03,626 INFO  SnsAmbassador - Removed Vehicle id=veh_2 @time=439.000,000,000 s
+2022-10-31 17:30:03,645 INFO  SnsAmbassador - Removed Vehicle id=veh_3 @time=441.000,000,000 s
+2022-10-31 17:30:03,664 INFO  SnsAmbassador - Removed Vehicle id=veh_4 @time=443.000,000,000 s
+2022-10-31 17:30:03,696 INFO  SnsAmbassador - Removed Vehicle id=veh_5 @time=446.000,000,000 s
+2022-10-31 17:30:03,735 INFO  SnsAmbassador - Removed Vehicle id=veh_20 @time=450.000,000,000 s
+2022-10-31 17:30:03,793 INFO  SnsAmbassador - Removed Vehicle id=veh_24 @time=453.000,000,000 s
+2022-10-31 17:30:03,825 INFO  SnsAmbassador - Removed Vehicle id=veh_30 @time=456.000,000,000 s
+2022-10-31 17:30:03,857 INFO  SnsAmbassador - Removed Vehicle id=veh_34 @time=459.000,000,000 s
+2022-10-31 17:30:03,923 INFO  SnsAmbassador - Removed Vehicle id=veh_6 @time=465.000,000,000 s
+2022-10-31 17:30:03,959 INFO  SnsAmbassador - Removed Vehicle id=veh_7 @time=469.000,000,000 s
+2022-10-31 17:30:04,012 INFO  SnsAmbassador - Removed Vehicle id=veh_8 @time=471.000,000,000 s
+2022-10-31 17:30:04,055 INFO  SnsAmbassador - Removed Vehicle id=veh_9 @time=475.000,000,000 s
+2022-10-31 17:30:04,076 INFO  SnsAmbassador - Removed Vehicle id=veh_11 @time=477.000,000,000 s
+2022-10-31 17:30:04,099 INFO  SnsAmbassador - Removed Vehicle id=veh_12 @time=479.000,000,000 s
+2022-10-31 17:30:04,130 INFO  SnsAmbassador - Removed Vehicle id=veh_13 @time=482.000,000,000 s
+2022-10-31 17:30:04,140 INFO  SnsAmbassador - Removed Vehicle id=veh_40 @time=483.000,000,000 s
+2022-10-31 17:30:04,342 INFO  SnsAmbassador - Removed Vehicle id=veh_14 @time=498.000,000,000 s
+2022-10-31 17:30:04,409 INFO  SnsAmbassador - Removed Vehicle id=veh_15 @time=501.000,000,000 s
+2022-10-31 17:30:04,428 INFO  SnsAmbassador - Removed Vehicle id=veh_16 @time=503.000,000,000 s
+2022-10-31 17:30:04,439 INFO  SnsAmbassador - Removed Vehicle id=veh_17 @time=504.000,000,000 s
+2022-10-31 17:30:04,453 INFO  SnsAmbassador - Removed Vehicle id=veh_18 @time=506.000,000,000 s
+2022-10-31 17:30:04,479 INFO  SnsAmbassador - Removed Vehicle id=veh_19 @time=509.000,000,000 s
+2022-10-31 17:30:04,498 INFO  SnsAmbassador - Removed Vehicle id=veh_23 @time=511.000,000,000 s
+2022-10-31 17:30:04,506 INFO  SnsAmbassador - Removed Vehicle id=veh_21 @time=512.000,000,000 s
+2022-10-31 17:30:04,536 INFO  SnsAmbassador - Removed Vehicle id=veh_25 @time=515.000,000,000 s
+2022-10-31 17:30:04,551 INFO  SnsAmbassador - Removed Vehicle id=veh_22 @time=517.000,000,000 s
+2022-10-31 17:30:04,609 INFO  SnsAmbassador - Removed Vehicle id=veh_27 @time=519.000,000,000 s
+2022-10-31 17:30:04,631 INFO  SnsAmbassador - Removed Vehicle id=veh_26 @time=521.000,000,000 s
+2022-10-31 17:30:04,654 INFO  SnsAmbassador - Removed Vehicle id=veh_28 @time=523.000,000,000 s
+2022-10-31 17:30:04,718 INFO  SnsAmbassador - Removed Vehicle id=veh_44 @time=531.000,000,000 s
+2022-10-31 17:30:04,843 INFO  SnsAmbassador - Removed Vehicle id=veh_29 @time=544.000,000,000 s
+2022-10-31 17:30:04,860 INFO  SnsAmbassador - Removed Vehicle id=veh_31 @time=547.000,000,000 s
+2022-10-31 17:30:04,870 INFO  SnsAmbassador - Removed Vehicle id=veh_32 @time=549.000,000,000 s
+2022-10-31 17:30:04,880 INFO  SnsAmbassador - Removed Vehicle id=veh_33 @time=551.000,000,000 s
+2022-10-31 17:30:04,892 INFO  SnsAmbassador - Removed Vehicle id=veh_35 @time=553.000,000,000 s
+2022-10-31 17:30:04,909 INFO  SnsAmbassador - Removed Vehicle id=veh_36 @time=556.000,000,000 s
+2022-10-31 17:30:04,939 INFO  SnsAmbassador - Removed Vehicle id=veh_50 @time=561.000,000,000 s
+2022-10-31 17:30:04,958 INFO  SnsAmbassador - Removed Vehicle id=veh_54 @time=564.000,000,000 s
+2022-10-31 17:30:05,018 INFO  SnsAmbassador - Removed Vehicle id=veh_60 @time=568.000,000,000 s
+2022-10-31 17:30:05,023 INFO  SnsAmbassador - Removed Vehicle id=veh_64 @time=569.000,000,000 s
+2022-10-31 17:30:05,067 INFO  SnsAmbassador - Removed Vehicle id=veh_38 @time=577.000,000,000 s
+2022-10-31 17:30:05,082 INFO  SnsAmbassador - Removed Vehicle id=veh_37 @time=580.000,000,000 s
+2022-10-31 17:30:05,086 INFO  SnsAmbassador - Removed Vehicle id=veh_41 @time=581.000,000,000 s
+2022-10-31 17:30:05,098 INFO  SnsAmbassador - Removed Vehicle id=veh_39 @time=583.000,000,000 s
+2022-10-31 17:30:05,107 INFO  SnsAmbassador - Removed Vehicle id=veh_42 @time=585.000,000,000 s
+2022-10-31 17:30:05,116 INFO  SnsAmbassador - Removed Vehicle id=veh_43 @time=587.000,000,000 s
+2022-10-31 17:30:05,124 INFO  SnsAmbassador - Removed Vehicle id=veh_46 @time=589.000,000,000 s
+2022-10-31 17:30:05,251 INFO  SnsAmbassador - Removed Vehicle id=veh_47 @time=606.000,000,000 s
+2022-10-31 17:30:05,275 INFO  SnsAmbassador - Removed Vehicle id=veh_45 @time=610.000,000,000 s
+2022-10-31 17:30:05,280 INFO  SnsAmbassador - Removed Vehicle id=veh_49 @time=611.000,000,000 s
+2022-10-31 17:30:05,291 INFO  SnsAmbassador - Removed Vehicle id=veh_48 @time=614.000,000,000 s
+2022-10-31 17:30:05,298 INFO  SnsAmbassador - Removed Vehicle id=veh_52 @time=616.000,000,000 s
+2022-10-31 17:30:05,307 INFO  SnsAmbassador - Removed Vehicle id=veh_51 @time=618.000,000,000 s
+2022-10-31 17:30:05,326 INFO  SnsAmbassador - Removed Vehicle id=veh_70 @time=622.000,000,000 s
+2022-10-31 17:30:05,410 INFO  SnsAmbassador - Removed Vehicle id=veh_74 @time=632.000,000,000 s
+2022-10-31 17:30:05,471 INFO  SnsAmbassador - Removed Vehicle id=veh_53 @time=639.000,000,000 s
+2022-10-31 17:30:05,489 INFO  SnsAmbassador - Removed Vehicle id=veh_55 @time=642.000,000,000 s
+2022-10-31 17:30:05,507 INFO  SnsAmbassador - Removed Vehicle id=veh_57 @time=645.000,000,000 s
+2022-10-31 17:30:05,523 INFO  SnsAmbassador - Removed Vehicle id=veh_56 @time=648.000,000,000 s
+2022-10-31 17:30:05,531 INFO  SnsAmbassador - Removed Vehicle id=veh_58 @time=650.000,000,000 s
+2022-10-31 17:30:05,539 INFO  SnsAmbassador - Removed Vehicle id=veh_59 @time=652.000,000,000 s
+2022-10-31 17:30:05,551 INFO  SnsAmbassador - Removed Vehicle id=veh_61 @time=654.000,000,000 s
+2022-10-31 17:30:05,566 INFO  SnsAmbassador - Removed Vehicle id=veh_62 @time=656.000,000,000 s
+2022-10-31 17:30:05,584 INFO  SnsAmbassador - Removed Vehicle id=veh_80 @time=661.000,000,000 s
+2022-10-31 17:30:05,591 INFO  SnsAmbassador - Removed Vehicle id=veh_90 @time=663.000,000,000 s
+2022-10-31 17:30:05,628 INFO  SnsAmbassador - Removed Vehicle id=veh_63 @time=676.000,000,000 s
+2022-10-31 17:30:05,633 INFO  SnsAmbassador - Removed Vehicle id=veh_66 @time=678.000,000,000 s
+2022-10-31 17:30:05,638 INFO  SnsAmbassador - Removed Vehicle id=veh_65 @time=680.000,000,000 s
+2022-10-31 17:30:05,642 INFO  SnsAmbassador - Removed Vehicle id=veh_67 @time=682.000,000,000 s
+2022-10-31 17:30:05,646 INFO  SnsAmbassador - Removed Vehicle id=veh_68 @time=684.000,000,000 s
+2022-10-31 17:30:05,652 INFO  SnsAmbassador - Removed Vehicle id=veh_69 @time=686.000,000,000 s
+2022-10-31 17:30:05,658 INFO  SnsAmbassador - Removed Vehicle id=veh_71 @time=688.000,000,000 s
+2022-10-31 17:30:05,663 INFO  SnsAmbassador - Removed Vehicle id=veh_72 @time=690.000,000,000 s
+2022-10-31 17:30:05,668 INFO  SnsAmbassador - Removed Vehicle id=veh_73 @time=692.000,000,000 s
+2022-10-31 17:30:05,708 INFO  SnsAmbassador - Removed Vehicle id=veh_75 @time=713.000,000,000 s
+2022-10-31 17:30:05,716 INFO  SnsAmbassador - Removed Vehicle id=veh_76 @time=716.000,000,000 s
+2022-10-31 17:30:05,718 INFO  SnsAmbassador - Removed Vehicle id=veh_78 @time=717.000,000,000 s
+2022-10-31 17:30:05,726 INFO  SnsAmbassador - Removed Vehicle id=veh_77 @time=721.000,000,000 s
+2022-10-31 17:30:05,782 INFO  SnsAmbassador - Removed Vehicle id=veh_79 @time=740.000,000,000 s
+2022-10-31 17:30:05,786 INFO  SnsAmbassador - Removed Vehicle id=veh_81 @time=742.000,000,000 s
+2022-10-31 17:30:05,790 INFO  SnsAmbassador - Removed Vehicle id=veh_83 @time=744.000,000,000 s
+2022-10-31 17:30:05,795 INFO  SnsAmbassador - Removed Vehicle id=veh_82 @time=746.000,000,000 s
+2022-10-31 17:30:05,800 INFO  SnsAmbassador - Removed Vehicle id=veh_84 @time=748.000,000,000 s
+2022-10-31 17:30:05,805 INFO  SnsAmbassador - Removed Vehicle id=veh_85 @time=750.000,000,000 s
+2022-10-31 17:30:05,809 INFO  SnsAmbassador - Removed Vehicle id=veh_86 @time=752.000,000,000 s
+2022-10-31 17:30:05,844 INFO  SnsAmbassador - Removed Vehicle id=veh_88 @time=772.000,000,000 s
+2022-10-31 17:30:05,850 INFO  SnsAmbassador - Removed Vehicle id=veh_87 @time=775.000,000,000 s
+2022-10-31 17:30:05,852 INFO  SnsAmbassador - Removed Vehicle id=veh_91 @time=777.000,000,000 s
+2022-10-31 17:30:05,855 INFO  SnsAmbassador - Removed Vehicle id=veh_89 @time=779.000,000,000 s
+2022-10-31 17:30:05,857 INFO  SnsAmbassador - Removed Vehicle id=veh_93 @time=781.000,000,000 s
+2022-10-31 17:30:05,859 INFO  SnsAmbassador - Removed Vehicle id=veh_92 @time=783.000,000,000 s
+2022-10-31 17:30:05,861 INFO  SnsAmbassador - Removed Vehicle id=veh_95 @time=785.000,000,000 s
+2022-10-31 17:30:05,864 INFO  SnsAmbassador - Removed Vehicle id=veh_94 @time=787.000,000,000 s
+2022-10-31 17:30:05,866 INFO  SnsAmbassador - Removed Vehicle id=veh_96 @time=789.000,000,000 s
+2022-10-31 17:30:05,881 INFO  SnsAmbassador - Removed Vehicle id=veh_98 @time=808.000,000,000 s
+2022-10-31 17:30:05,884 INFO  SnsAmbassador - Removed Vehicle id=veh_97 @time=811.000,000,000 s
+2022-10-31 17:30:05,885 INFO  SnsAmbassador - Removed Vehicle id=veh_99 @time=813.000,000,000 s
+2022-10-31 17:30:06,275 INFO  SnsAmbassador - Finished simulation
