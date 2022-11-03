@@ -6,3 +6,4 @@ __pycache__
 eclipse-mosaic-22.0/logs
 venv
 docker
+tests
